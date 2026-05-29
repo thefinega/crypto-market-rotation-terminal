@@ -58,11 +58,30 @@ This repository is used only for product information, documentation, and the off
 
 ## Installation Note
 
-After purchase, download the ZIP from Gumroad, extract it, and run the Windows application from the app folder.
+After purchase, two download options are included on Gumroad:
 
-Keep the `.exe` file and the `_internal` folder together. The application is distributed as a folder-based Windows app, not as a single standalone executable.
+### 1. Windows Installer Version
 
-Do not move only the `.exe` file to another location. If desktop access is needed, create a Windows shortcut instead.
+Recommended for most users.
+
+Download the installer ZIP, extract it, then run:
+
+`market-rotation-setup.exe`
+
+Follow the setup wizard and launch the app from the Start Menu or the desktop shortcut created by the installer.
+
+### 2. Portable ZIP Version
+
+Use this version if you prefer to run the app without installation.
+
+Download the portable ZIP, extract it, then open the app folder and run:
+
+`Crypto Market Rotation Terminal.exe`
+
+For the portable version, do not move the `.exe` file outside the app folder. The `_internal` folder must stay next to the `.exe`.
+
+If desktop access is needed, create a Windows shortcut instead of moving the `.exe` file.
+
 
 ## Disclaimer
 
